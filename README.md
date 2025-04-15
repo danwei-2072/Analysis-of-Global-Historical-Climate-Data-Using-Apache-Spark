@@ -1,8 +1,10 @@
-# Comprehensive Analysis of Global Historical Climate Data Using Apache Spark (Based on a DATA420 Course Project)
+# Analysis of Global Historical Climate Data Using Apache Spark (Based on Scalable Data Science Course Project)
 
 ## Project Overview
 
-This project, based on a project for the DATA420 course, aims to conduct an in-depth analysis of the Global Historical Climatology Network (GHCN) dataset using Apache Spark (via PySpark). The project focuses on exploring the active periods of global weather stations, daily climate variables, and trends in average temperature changes and climate variations across different regions. The analysis seeks to uncover long-term climate patterns, providing data support for climate change research and policy formulation.
+This project, based on a project for the Scalable Data Science course, aims to conduct an in-depth analysis of the Global Historical Climatology Network (GHCN) dataset using Apache Spark (via PySpark). The project focuses on exploring the active periods of global weather stations, daily climate variables, and trends in average temperature changes and climate variations across different regions. The analysis seeks to uncover long-term climate patterns, providing data support for climate change research and policy formulation.
+
+Notably, this project achieved an A grade.
 
 ## Data Source
 
@@ -81,7 +83,7 @@ This project, based on a project for the DATA420 course, aims to conduct an in-d
 
 ## Acknowledgements
 
-Thanks to Lecturer James, Tutors Hazel and Yiwen, and classmates from the DATA420 course for their guidance and insights. Also, thanks to OpenAI for providing ChatGPT assistance.
+Thanks to Lecturer James, Tutors Hazel and Yiwen, and classmates from the Scalable Data Science course for their guidance and insights. Also, thanks to OpenAI for providing ChatGPT assistance.
 
 ## References
 
