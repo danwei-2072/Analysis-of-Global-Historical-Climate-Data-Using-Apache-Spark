@@ -72,7 +72,7 @@ Notably, this project achieved an A grade.
 1.  **Environment**: Requires access to the data on HDFS (or a similar distributed file system) and an environment capable of running PySpark.
 2.  **Clone Repository**:
     ```bash
-    git clone https://github.com/danwei-2072/Analysis-of-Global-Historical-Climate-Data-Using-Apache-Spark
+    git clone https://github.com/danwei-2072/Analysis-of-Global-Historical-Climate-Data-Using-Apache-Spark.git
     cd Analysis-of-Global-Historical-Climate-Data-Using-Apache-Spark
     ```
 3.  **Dependencies**: Ensure `pyspark`, `pandas`, and `matplotlib` are installed. `geopandas` (and its dependencies) is needed for local map plotting if desired.
